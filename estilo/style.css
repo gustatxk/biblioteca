@@ -3,6 +3,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
 :root {
    --cor0: #ebe5c5;
    --cor1: #83e1ad;
@@ -12,7 +14,7 @@
    --cor5: #063d1e; 
    --fonte-padrao: Arial, Verdana, helvetica, sans-serif;
    --fonte-destaque: 'Bebas Neue', cursive;
-   --fontr-titulo: cursive;
+   --fontr-titulo: "Comfortaa", sans-serif;
 }
 
 * {
