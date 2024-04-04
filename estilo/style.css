@@ -6,7 +6,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
 
 :root {
-   --cor0: #ebe5c5;
    --cor1: #7fb3d5;
    --cor2: #5dade2;
    --cor3:  #3498db;
@@ -23,7 +22,7 @@
 }
 
 body {
-    background-color: var(--cor0);
+    background-color: lightgray;
     font-family: var(--fonte-padrao);
 }
 
